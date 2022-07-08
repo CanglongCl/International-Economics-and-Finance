@@ -13,7 +13,7 @@ Link to [Study Guide](Unit Guide BEO2003 CUFE S4 2022.pdf)
 - See [Assignment](BEO2003 Assignment - CUFE S4 2022.pdf)
 - 20%
 - Group of 3
-- Maxmium word count: 2,000 wordsxw
+- Maxmium word count: 2,000 words
 - In word format
 
 Parts

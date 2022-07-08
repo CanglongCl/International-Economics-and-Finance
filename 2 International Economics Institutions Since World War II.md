@@ -133,15 +133,38 @@ The two most important characteristics of public goods provided by international
 
 ## Criticisms of International Institutions
 
-Sovereignty`主权` and transparency`公开透明`
+**Sovereignty`主权` and transparency`公开透明`**
 
 - Countries receiving assistance, particularly from the IMF, are sometimes required to give up the ability to set their own policies.
 - Decision making in the institutions is not transparent;  because the U.S. and Europe have the largest voting bloc, decisions are sometimes viewed as having been directed by rich countries
 
-Ideology`意识形态`
+**Ideology`意识形态`**
 
 - Critics argue that the advice, technical assistance, and negotiating positions are often a reflection of the biases and ideologies of high income countries and do not adequately consider alternative policies.
 
-Implementation and adjustment costs
+**Implementation and adjustment costs**
 
 - There are asymmetries`不对称` in the fiscal burdens associated with implementing agreements and adjusting to the changes they create; richer countries do better at this than poorer ones
+
+# Tutorial 
+
+1. Give the arguments for and against regional free trade (RTAs) agreements. How might the signing of a free trade agreement between the United States, Central America, and the Dominican Republic have harmed Bangladesh?
+   - - Pro: Freer, more open trade. Easier to reach agreements for a frw countries on difficulties matters than it is for a large number of countries to reach the same agreements
+      - Con: RTAs undermine progress towarrd multilateral agreements. RTAs polarize`两极化` countries and discrimateagainst non-members and because they disadvantage smaller countries that enter agreements with large ones.
+
+   - 123
+
+2. What are public goods and how do they differ from private ones? Give examples of each. 
+   - Public goods are non-excludable and non-diminishable; 
+   - private goods don't share the same characteristics and private goods include many things that are brought on sold in private markets (clothing, houses, cars, etc.)
+3. Describe the main functions of each of the following: The IMF; The World Bank; The GATT; The WTO.
+   - The IMF - lender of last resort
+   - The World Bank - assistance with the economic development of nations through...
+   - The GATT - to keep the markets for goods open and to ensure that nations follow set of rules governing fair trade.
+   - The WTO - is an umbrella organization, similar to the GATT's but it has expanded its function to include agreements on services, agriculture, textiles, and apparel etc. 
+4. What are the five main types of regional trade agreements and what are their primary characteristics?
+   - A partial trade agreement: 
+   - A free trade area: 
+   - A custom union: 
+   - A common market: 
+   - An economic union

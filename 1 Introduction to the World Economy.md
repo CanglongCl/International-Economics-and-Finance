@@ -130,3 +130,28 @@ Evidence comes in three forms:
 - Economic models and deductive reasoning.
 
 As we will see, trade benefits a nation but not necessarily every individual in the nation
+
+# Tutorial
+
+1. How can globalization and international economic integration be measured?
+
+   - Trade flows
+
+   - Factor movements
+
+   - Convergence of prices
+
+2. What does the trade-to-GDP ratio measure? Does a low value indicate that a country is closed to trade with the outside world?
+
+   - Trade to GDP Ratio: a measure of the relative importance of trade to a national economy. It is measured by the ratio of exports plus imports to GDP
+   - No. E.g. The US has a large domestic market that enables its firms/companies to produce large volume to an optima scale without having to sell to foreign markets.
+
+3. Trade and capital flows were described and measured in relative rather than absolute terms. Explain the difference. Which term seems more valid - *relative or absolute?* Why?
+
+   - Absolute values are the dollar amounts of trade and capital flows; whereas relative values are the ratio of dollar amounts but to GDP.
+   - Relative values are better indicator of the importace of trade and capital flows since they are proportional the size of national economies. 
+
+4. What are the new issues in international trade and investment? In what sense do they expose national economies to outside influences?
+
+   - New issues: policy differences b/n nations such as labour standards, environmental standards, copetition,anti-trust policies and industrial support policies; 
+   - Negotiations between nations potentially give foreign interests a voice in setting domestic policy which is perceived by foreigners a barrier to trade.

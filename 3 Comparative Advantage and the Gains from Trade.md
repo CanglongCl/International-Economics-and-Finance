@@ -269,3 +269,50 @@ Export industries played a key role
     - Trade makes the nation better off;  the winners can compensate the losers and still gain
     - Fairness
     - Not doing so creates a backlash that endangers trade and the gains from trade
+
+# Tutorial
+
+1. **Use the information in the table on labor productivities in Franceand Germany to answer questions a through f.**
+
+   |        | France | Germany |
+   | ------ | ------ | ------- |
+   | Cheese | 2 kilo | 1 kilo  |
+   | Cars   | 0.25   | 0.5     |
+
+   1. **Which country has an absolute advantage in cheese? In cars?**
+
+      - Cheese: France
+      - Cars: Germany
+
+   2. **What is the relative price of cheese in France if it does not trade? In Germany?**
+
+      - The autarky relative price of Cheese in France is: 0.25/2 - 0.125 (car / cheese)
+      - ~ in Germany: 0.5 / 1 = 0.5
+
+   3. **What is opportunity cost of cheese in France? In Germany?**
+
+      Oppotunity costs are equal to relative prices
+
+   4. **Which country has a comparative advantage in cheese? In cars? Explain your answer.**
+
+      France has a comparative advantage in cheese because its opportunity cost is lower (0.125 is lower than 0.25). Germany has a comparative advantage in cars.
+
+   5. **What are the upper and lower bounds for the trade price of cheese?**
+
+      The trade price of cheese will settle between 0.125 and 0.5 car per kg cheese. 
+
+   6. **Draw a hypothetical PPC for France and label its slope. Suppose that France follows its comparative advantage in deciding where to produce on its PPC. Label its production point.If the trade price of cars is 5 kilograms of cheese per car, draw a trade line (CPC) showing how France can gain from trade.**
+
+      Re-visit the PPC and CPC slides from lecture notes and from text book.
+
+2. **Explain how a nation can gain from trade even though not everyone is made better off. Is this a contradiction?**
+
+   No contradiction. The whole nation can gain from trade, i.e. the winners could make up / compensate for the losers from trade and still gain overall. Eg. US moved toward specialization in stell and its workers were shifted out of bread industry into stell industry. As long as the winner's gains are greater than the losser's losses, we can say that the naiton wins. 
+
+3. **Economic nationalists in developed countries worry that international trade is destroying the national economy. A common complaint is that trade agreements open the economy to increased trade with countries where workers are paid a fraction of what they earn at home. Explain the faulty`错误的` logic of this argument.**
+
+   Doesn't take into account the differences in productivity. The low wage works in less developed countries in general are paid less because they produce less output during each hour of labor. 
+
+4. **Many people believe that the goal of international trade should be to create jobs. Consequently, when they see workers laid off due to a firm's inability to compete against cheaper and better imports, they assume that trade must be bad for the economy. Is this assumption correct? Why, or why not?**
+
+   The goal of trade is to improve a nation's allocation of its resources so they are directed to their most valuable use. Trade is not about creating jobs, but is about raising the stadard of living through a more efficient allocation. 

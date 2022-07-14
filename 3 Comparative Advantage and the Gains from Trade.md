@@ -16,12 +16,10 @@
 
 ## Adam Smith and The Wealth of Nations
 
-Smith published his great work in 1776: *An Inquiry into the Nature and Causes of the Wealth of Nations*. 
-
-He criticized the dominant school of thought, called **mercantilism**`重商主义`
+Smith published his great work in 1776: *An Inquiry into the Nature and Causes of the Wealth of Nations*. He criticized the dominant school of thought, called **mercantilism**`重商主义`
 
 - Mercantilism is sometimes called the politics and economics of nation building.
-- Mercantilists favored exports because they earned gold for a nation; they discouraged imports because they cost a nation its gold.
+- Mercantilists ==favored exports== because they earned gold for a nation; they discouraged imports because they cost a nation its gold.
 - Gold could be used to pay for armies and navies.
 
 Smith’s arguments against mercantilism:
@@ -33,9 +31,9 @@ Smith’s arguments against mercantilism:
 
 Economists today mostly accept Smith’s critique of mercantilism and trade barriers.
 
-Smith thought that every nation would be able to produce something **at lower cost than all other nations** - due to their soil, climate, mineral resources, or some other **unique factor**.
+==Smith== thought that every nation would be able to produce something **at lower cost than all other nations** - due to their soil, climate, mineral resources, or some other **unique factor**. (**==Absolute advantage==)**
 
-David Ricardo, writing in the early 1800s, demonstrated that trade was beneficial **even if a country had no special advantage** - or even if they had an advantage in everything.
+==David Ricardo==, writing in the early 1800s, demonstrated that trade was beneficial **even if a country had no special advantage** - or even if they had an advantage in everything. (**==comparative advantage==**)
 
 ##  A Simple Model of Production and Trade
 

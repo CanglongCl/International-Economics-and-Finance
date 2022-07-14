@@ -18,7 +18,7 @@
 
 - Eli Heckscher and Bertil Ohlin:  20th century Swedish economists. 
   - Best known for their model explaining patterns of international trade.
-  - Also called the factor proportions model.
+  - Also called the **factor proportions model**.
 - **HO Model idea**:  The relative abundance of different ==factors== of production (inputs) determine which country has a comparative advantage in which goods.
 - The HO Model: 2x2x2
   - 2 inputs, called labor and capital

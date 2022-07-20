@@ -109,7 +109,7 @@ Q9) The earliest statement of the principle of comparative advantage is associat
 
 ---
 
-Q10) International Trade is based on the notion`concept` that: ==C==
+Q10) International Trade is based on the notion`concept` that: ==B==
 
 ​	a)  Different currencies are an obstacle to the international trade
 
@@ -169,7 +169,7 @@ Q14) The factor endowment theory assumes: ==D==
 
 ---
 
-Q15) In explaining international trade, the product life cycle theory focuses on: ==D==
+Q15) In explaining international trade, the product life cycle theory focuses on: ==B==
 
 ​	a)  Tastes and preferences
 
@@ -205,7 +205,7 @@ Q17) The deadweight loss of a tariff is: ==A==
 
 ---
 
-Q18) If the domestic value added before an import tariff for a product is \$500 and the domestic value added after the tariff is \$550, the effective rate of protection is: ==A==
+Q18) If the domestic value added before an import tariff for a product is \$500 and the domestic value added after the tariff is \$550, the effective rate of protection is: ==C==
 
 ​	a)  5%
 

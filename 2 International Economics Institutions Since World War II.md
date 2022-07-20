@@ -151,12 +151,9 @@ The two most important characteristics of public goods provided by international
 1. Give the arguments for and against regional free trade (RTAs) agreements. How might the signing of a free trade agreement between the United States, Central America, and the Dominican Republic have harmed Bangladesh?
    - - Pro: Freer, more open trade. Easier to reach agreements for a frw countries on difficulties matters than it is for a large number of countries to reach the same agreements
       - Con: RTAs undermine progress towarrd multilateral agreements. RTAs polarize`两极化` countries and discrimateagainst non-members and because they disadvantage smaller countries that enter agreements with large ones.
-
-   - 123
-
 2. What are public goods and how do they differ from private ones? Give examples of each. 
    - Public goods are non-excludable and non-diminishable; 
-   - private goods don't share the same characteristics and private goods include many things that are brought on sold in private markets (clothing, houses, cars, etc.)
+   - Private goods don't share the same characteristics and private goods include many things that are brought on sold in private markets (clothing, houses, cars, etc.)
 3. Describe the main functions of each of the following: The IMF; The World Bank; The GATT; The WTO.
    - The IMF - lender of last resort
    - The World Bank - assistance with the economic development of nations through...

@@ -111,6 +111,7 @@ Multilateral organizations are controversial; we look at them more closely in th
 ### Regional trade agreements
 
 **Regional trade agreements** (RTAs) are composed of countries that give special market access to each other.
+
 Examples include the North American Free Trade Agreement (NAFTA) and the European Union (EU), among many others.
 RTAs have dramatically grown in number since the 1980s.
 
@@ -148,7 +149,8 @@ As we will see, trade benefits a nation but not necessarily every individual in 
 
 3. Trade and capital flows were described and measured in relative rather than absolute terms. Explain the difference. Which term seems more valid - *relative or absolute?* Why?
 
-   - Absolute values are the dollar amounts of trade and capital flows; whereas relative values are the ratio of dollar amounts but to GDP.
+   - Absolute values are the dollar amounts of trade and capital flows; 
+     whereas relative values are the ratio of dollar amounts but to GDP.
    - Relative values are better indicator of the importace of trade and capital flows since they are proportional the size of national economies. 
 
 4. What are the new issues in international trade and investment? In what sense do they expose national economies to outside influences?

@@ -2,11 +2,15 @@
 
 ## Learning Objectives
 
-- 6.1 Use supply and demand analysis to explain and illustrate consumer and producer surplus.
-- 6.2 Graphically demonstrate the effects of tariffs and quotas on prices output and consumption for and quotas on prices, output, and consumption for small and large countries.
-- 6.3 Differentiate and explan the resource allocation and income distribution effects of tariffs and quotas.
-- 6.4 Use tariff data on inputs and outputs to compare effective and nominal rates of protection.
-- 6.5 Compare and contrast quotas and tariffs.
+6.1 Use supply and demand analysis to explain and illustrate consumer and producer surplus.
+
+6.2 Graphically demonstrate the effects of tariffs and quotas on prices output and consumption for and quotas on prices, output, and consumption for small and large countries.
+
+6.3 Differentiate and explan the resource allocation and income distribution effects of tariffs and quotas.
+
+6.4 Use tariff data on inputs and outputs to compare effective and nominal rates of protection.
+
+6.5 Compare and contrast quotas and tariffs.
 
 ## Introduction to Tariffs and Quotas
 
@@ -199,3 +203,85 @@ Quotas are physical limits on imports.
   - In addition, the costs of implementing and enforcing intellectual property rights is a burden in many poor countries. 
 - Example: Pharmaceuticals`药物`
   - Should poor countries be allowed to copy pharmaceuticals (break the patent) that are life saving when they cannot afford to buy them from the companies that developed them?
+
+# Tutorial
+
+2. Suppose the world price for a good is 40 and the domestic price demand-supply curves are given by the following equations:
+
+   $$
+   \text{Demand}\quad P = 80-2Q\\[1ex]
+   
+   \text{Supply}\quad   P = 5 + 3Q
+   $$
+   
+
+   1. How much is consumed? 
+   $$
+   40 = 80 – 2Q\\[1ex]
+   
+   2Q = 40\\[1ex]
+   
+   Q=20
+   $$
+
+   2. How much is produced at home?
+   $$
+   P = 5 +3 Q\\[1ex]
+   
+   
+   40 = 5 +3 Q\\[1ex]
+   3 Q = 35\\[1ex]
+   
+   Q = 11.67
+   $$
+
+   3. What are the values of consumer and producer surplus?
+      - Consumer surplus: 20 x (80 – 40) x ½ = 400 refer to graph for consumer surplus area
+      - Producer surplus: 11.67 x (40 – 5) x ½ = 204.17 refer to graph for producer surplus area
+   4. If a tariff of 10% is imposed, by how much do consumption and domestic production change?
+      - 10% of 40 = 4 (tariff), price goes up from 40 to 44.
+      - Consumption moves along the demand curve: 44 = 80-2Q, or Q =18
+      - Production moves up the supply curve: 44 = 5 + 3Q, or Q = 13
+   6. What is the change in consumer and producer surplus?
+      - Consumption surplus = 324 (down by 76)
+      - Producer surplus = 253.5 (up by 49.33)
+   7. How much revenue does the government earn from the tariff?
+      - Tariff revenue = 5 x 4 = 20
+   8. What is the net national cost of the tariff?
+      - Combination of the efficiency loss and the consumption deadweight loss, i.e. the lost consumer surplus minus the transfer to producers and government.
+      - 76 – 49.33 – 20 = 6.67 
+
+---
+
+3. Under what conditions may a tariff actually make the country better off?
+
+   Country must be large enough to affect the world price when it imposes a tariff, and other countries must not retaliate. 
+
+---
+
+4. In addition to the production and consumption side deadweight losses, what are some of the other potential costs of tariffs?
+
+   e.g. the threat of retaliation and the potential loss of exports markets, the stifling of the incentive to innovate, and the encouragement of rent seeking.
+
+---
+
+7. Suppose that bicycles are made in the United States out of a combination of domestic and foreign parts.
+
+   1. If a bike sells for \$500 but requires $300 of imported parts, what is the domestic value added?
+
+      - Value added = \$500 – \$300 = $200
+
+   2. If a 20% tariff levied on bikes of the same quality and with the same features, how do the price and the domestic value added change?
+
+      - Domestic price goes up after tariff = 500 + 20% x 500 = $600
+   - New Value added = \$600 - \$300 = $300
+      
+3. What is the effective rate of protection?
+   
+   - (300 – 200) / 200 = 0.5 or 50%
+   
+4. If in addition to the 20% tariff on the final good, a 20% tariff on imported parts is also levied, what is the effective rate of protection for the US bike manufacturers?
+   
+   - Cost of inputs goes up from \$300 to $360
+      - New Value added = \$600 - $360 = \$240
+   - Effective rate of protection is now = (240 – 200) /200 =0.20 or 20%

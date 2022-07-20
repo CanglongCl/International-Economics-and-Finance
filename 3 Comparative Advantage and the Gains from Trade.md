@@ -33,7 +33,7 @@ Economists today mostly accept Smith’s critique of mercantilism and trade barr
 
 ==Smith== thought that every nation would be able to produce something **at lower cost than all other nations** - due to their soil, climate, mineral resources, or some other **unique factor**. (**==Absolute advantage==)**
 
-==David Ricardo==, writing in the early 1800s, demonstrated that trade was beneficial **even if a country had no special advantage** - or even if they had an advantage in everything. (**==comparative advantage==**)
+==David Ricardo==, writing in the early 1800s, demonstrated that trade was beneficial **even if a country had no special advantage** - or even if they had an advantage in everything. (**==Comparative advantage==**)
 
 ##  A Simple Model of Production and Trade
 
@@ -61,11 +61,10 @@ Economists today mostly accept Smith’s critique of mercantilism and trade barr
 - **Productivity**: The amount of output per unit of input.
 
 - **Labor productivity**: Output per unit of labor
-
   $$
   \textit{Inputs} = \textit{Units of output}\ /\ \textit{Hours worked}
   $$
-
+  
 - **Absolute productivity advantage**:  Higher output per hour worked than a competitor.  More simply, this is called **absolute advantage**
 
 ### **Example**: Table 3.2 Output Per Hour Worked

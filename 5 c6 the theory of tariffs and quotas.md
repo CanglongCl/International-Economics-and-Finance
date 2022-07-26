@@ -275,7 +275,7 @@ Quotas are physical limits on imports.
 
       - Domestic price goes up after tariff = 500 + 20% x 500 = $600
    - New Value added = \$600 - \$300 = $300
-      
+   
 3. What is the effective rate of protection?
    
    - (300 – 200) / 200 = 0.5 or 50%

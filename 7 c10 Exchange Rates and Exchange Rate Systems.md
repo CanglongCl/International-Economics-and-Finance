@@ -1,4 +1,4 @@
-# **Chapter 10** Exchange Rates and Exchange Rate Systems
+# Chapter 10 Exchange Rates and Exchange Rate Systems
 
 ## Learning Objectives
 

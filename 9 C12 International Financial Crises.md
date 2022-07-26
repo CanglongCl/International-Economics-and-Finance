@@ -1,4 +1,4 @@
-# **Chapter 12** International Financial Crises
+# Chapter 12 International Financial Crises
 
 ## Learning Objectives
 

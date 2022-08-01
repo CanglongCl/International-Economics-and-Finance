@@ -4,13 +4,13 @@
 
 12.1 Define three types of crises. 
 
-12.2 Distinguish a crisis caused by economic  imbalances from one caused by volatile capital  flows. 
+12.2 Distinguish a crisis caused by economic imbalances from one caused by volatile capital flows. 
 
-12.3 List and explain three measures countries  can take to reduce their exposure to financial  crises.
+12.3 List and explain three measures countries can take to reduce their exposure to financial crises.
 
-12.4 Explain the need for reforms in the  architecture of international finance and  international financial institutions. 
+12.4 Explain the need for reforms in the architecture of international finance and  international financial institutions. 
 
-12.5 Describe the main forces behind the global  financial crisis that began in 2007.
+12.5 Describe the main forces behind the global financial crisis that began in 2007.
 
 ## The Challenge of Financial Integration
 
@@ -31,14 +31,14 @@
 
 ### Banking crises:
 
-- A crisis occurs when the banking system—or a significant number of banks--cannot perform its main functions and requires assistance. 
+- A crisis occurs when the ==banking system==—or a significant number of banks--==cannot perform its main functions== and requires assistance. 
 - Banks engage in **intermediation** between borrowers and savers; in a crisis there is **disintermediation.** 
 - Households and businesses lose access to credit; consumption and investment decline.
 
 ### Currency crises: 
 
 - Also called an **exchange rate crisis.** 
-- A sudden large depreciation in the exchange rate. 
+- A ==sudden large depreciation== in the exchange rate. 
 
 Currency crises have several negative effects. 
 - Debt denominated in a foreign currency increases in real value. 
@@ -48,7 +48,7 @@ Currency crises have several negative effects.
 ### Debt crises: 
 
 - May be private debt or public; 
-  - A **sovereign default** is government that cannot pay its debt. 
+  - A **sovereign default** is ==government that cannot pay its debt==. 
 - May be external or internal; 
   - External debt is debt owed in a foreign currency and subject to rules set in a foreign jurisdiction. 
   - Internal debt is owed in the domestic currency and is under domestic jurisdiction. 

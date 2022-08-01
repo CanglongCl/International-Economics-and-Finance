@@ -32,9 +32,9 @@
 ![image-20220722084006098](img/image-20220722084006098.png)
 
 As drawn, the **AS** curve has three regions: 
-  - A horizontal region representing levels of output below full employment; 
-  - An upward curving region representing an area nearer to full employment where inputs start to become scarcer and prices begin to rise with further increases in output. 
-  - A vertical region representing full employment. No further output is possible given the levels of labor, capital, and resources, and attempts to increase Q only cause a rise in P.
+  - A ==horizontal== region representing levels of output ==below full employment==; 
+  - An ==upward curving== region representing an area nearer to full employment where ==inputs start to become scarcer`稀缺`== and prices begin to rise with further increases in output. 
+  - A ==vertical== region representing ==full employment==. No further output is possible given the levels of labor, capital, and resources, and attempts to increase Q only cause a rise in P.
 
 
 - In the **short run** and **medium run**, many fluctuations in the economy are attributable to shifts in **aggregate demand**. 

@@ -40,11 +40,17 @@
 
 
 - **Primary income** has two components: 
-  1. Investment earnings received (credit) and paid (debit); 
-  1. Wages and salaries received from abroad (credit) or paid abroad (debit). 
+  1. ==Investment earnings== received (credit) and paid (debit); 
+  1. ==Wages and salaries== received from abroad (credit) or paid abroad (debit). 
 - **Secondary income** is often expressed on a net income basis: transfers received minus transfers paid. 
   - A key item in this category is **remittances**`汇兑额`, the part of wages or other income that individuals transfer to families and friends living outside the country. 
   - Countries with many immigrant workers send more remittances abroad; countries with many emigrants receive more remittances from abroad. 
+
+![image-20220729234831732](img/image-20220729234831732.png)
+
+## Capital Account
+
+The capital account of the balance of payments is the record of specialized ==capital transfers==. Because it is a measure of ==transfers and not purchases or sales==, it is somewhat ==similar to the category of secondary income== of the current account, but with the major distinction that it applies to ==capital transfers== and not income transfers. Normally, this is a small item and includes relatively infrequent activities such as the transfer of military bases or embassies between countries, debt forgiveness, and the personal assets that migrants carry with them when they cross borders. `无条件的资本（固定资产、无形资产、商誉等）转移`
 
 ## The Financial Account
 
@@ -52,9 +58,9 @@
 - The financial account is a record of ==financial flows== between countries. 
 - Financial flows represent the purchase of foreign assets by home country residents and the sale of home by country assets to foreign residents. 
 - There are three main accounting categories and many types of financial assets. 
-  - Net acquisition of financial assets; 
-  - Net incurrence of financial liabilities; 
-  - Changes in financial derivatives.
+  - **Net acquisition of financial assets;** 
+  - **Net incurrence of financial liabilities;** 
+  - **Changes in financial derivatives.**
 
 ### Net acquisition of financial assets. 
 
@@ -72,10 +78,14 @@
 
 ### Summary
 
+![image-20220729234857938](img/image-20220729234857938.png)
+
+![image-20220729234932583](img/image-20220729234932583.png)
+
 
 - A positive net acquisition of financial assets is a credit. 
 - A positive net incurrence of liabilities is a debit. 
-- The statistical discrepancy is the measurement error in the accounts. 
+- The **statistical discrepancy**`差异` is the measurement ==error in the accounts==. 
   - In theory, the current account plus capital account equal the financial account balance but with opposite sign. 
   - In practice, there are measurement errors; the statistical discrepancy equals the financial account balance minus the current plus capital account balances. 
 - If a country has a current account deficit, it must be financed. 
@@ -128,8 +138,6 @@
   - GNP = GDP + net primary income + net secondary income. 
 
 
-
-
 ## The Current Account and the Macroeconomy
 
 Since
@@ -173,14 +181,15 @@ During the financial crisis:
 ## Are Current Account Deficits harmful?
 
 
+- Current account deficits can be harmful:
+  - If a country is dependent on volatile foreign capital inflows to finance them;
+  - If there is a **sudden stop** in foreign financing that forces large cuts in spending and consumption.
+  - If they undermine confidence in the country and its currency.
+  - If countries incur liabilities that must be paid back in a foreign currency.
 - But they can sometimes be a sign of economic strength: 
   - If they are caused by large inflows of foreign capital, looking for a place to invest; 
   - If they are caused by a rise in imports when an economy experiences rapid economic growth. 
 - There is no exact threshold for when a deficit becomes dangerous, but for most countries, when they reach 3‐5% of GDP, it is in the danger zone. 
-- But they can sometimes be a sign of economic strength: 
-  - If they are caused by large inflows of foreign capital, looking for a place to invest; 
-  - If they are caused by a rise in imports when an economy experiences rapid economic growth. 
-- There is no exact threshold for when a deficit becomes dangerous, but for most countries, when they reach 3‐5% of GDP, it is in the 
 
 ## International Debt
 
@@ -194,7 +203,7 @@ During the financial crisis:
   - Whether denominated in home or foreign country currency; 
   - The size of the current account deficit and the need for continued capital inflows. 
 - Debt can become unsustainable when: 
-  - Debt service increases faster than GDP; 
+  - Debt service increases faster than GDP;  
   - Debt is denominated in a foreign currency and the borrowing country has a significant decline in the value of its own currency; 
   - A borrowing country depends on exports of 1 or 2 commodities that g y p p have falling prices in the world market. 
 - The Highly Indebted Poor Countries (HIPC) is a World Bank program to offer debt relief to the most indebted, poorest countries. 
